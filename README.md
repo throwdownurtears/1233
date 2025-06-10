@@ -11,4 +11,4 @@
 
 ## Компиляция
 ```bash
-g++ -std=c++17 color.cpp main.cpp -o color_demo
+g++ -std=c++17 color.cpp main.cpp -o (любое название программы)
